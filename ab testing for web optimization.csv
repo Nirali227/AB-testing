@@ -1,0 +1,101 @@
+﻿User_ID,Group,Version_A_Clicks,Version_B_Clicks,Time_Spent,Bounced,Device_Type,Age_Group,Location,Traffic_Source
+1,A,10,12,30,0,Desktop,25-34,United States,Organic search
+2,B,8,14,45,0,Mobile,18-24,United Kingdom,Social media
+3,A,15,9,25,1,Tablet,35-44,Canada,Referral
+4,B,12,16,60,0,Desktop,45-54,Australia,Direct
+5,A,6,5,15,1,Mobile,18-24,Germany,Organic search
+6,A,11,8,20,0,Desktop,35-44,France,Organic search
+7,B,18,22,75,0,Mobile,25-34,Spain,Social media
+8,A,9,10,28,0,Tablet,18-24,Italy,Referral
+9,A,7,6,22,1,Mobile,45-54,United States,Direct
+10,B,13,11,40,0,Desktop,35-44,United Kingdom,Organic search
+11,A,10,13,31,0,Mobile,25-34,Canada,Organic search
+12,B,8,15,48,1,Desktop,18-24,United States,Social media
+13,B,15,11,26,0,Mobile,35-44,Germany,Social media
+14,A,12,7,18,1,Tablet,45-54,Australia,Referral
+15,B,6,9,22,0,Desktop,25-34,United Kingdom,Direct
+16,A,11,8,19,0,Mobile,18-24,Spain,Organic search
+17,A,18,23,80,0,Desktop,35-44,Italy,Organic search
+18,B,9,10,28,1,Tablet,45-54,Canada,Direct
+19,A,7,6,21,0,Mobile,25-34,United States,Organic search
+20,B,13,12,38,0,Desktop,35-44,United Kingdom,Social media
+21,A,10,13,30,0,Mobile,18-24,Germany,Organic search
+22,B,8,14,47,0,Desktop,35-44,France,Social media
+23,B,16,12,28,1,Tablet,25-34,Spain,Referral
+24,A,11,7,20,0,Mobile,35-44,Italy,Organic search
+25,A,18,22,78,0,Desktop,45-54,United States,Direct
+26,B,9,10,25,1,Mobile,25-34,Canada,Direct
+27,A,6,8,21,0,Desktop,35-44,United Kingdom,Organic search
+28,A,12,9,35,0,Mobile,18-24,Australia,Social media
+29,B,7,6,18,1,Tablet,45-54,Germany,Referral
+30,B,13,11,22,0,Desktop,25-34,France,Organic search
+31,A,10,13,29,0,Mobile,35-44,United States,Social media
+32,B,8,14,46,0,Desktop,18-24,United Kingdom,Referral
+33,A,15,11,25,1,Tablet,25-34,Canada,Direct
+34,B,12,7,18,0,Mobile,35-44,Germany,Organic search
+35,A,6,9,20,0,Desktop,45-54,United States,Social media
+36,A,11,8,22,1,Mobile,25-34,Australia,Organic search
+37,B,18,23,80,0,Desktop,35-44,United Kingdom,Social media
+38,B,9,10,28,0,Tablet,18-24,Spain,Social media
+39,A,7,6,21,0,Mobile,45-54,Italy,Referral
+40,B,13,12,40,1,Desktop,25-34,Canada,Organic search
+41,A,10,12,30,0,Desktop,25-34,United States,Organic search
+42,B,8,14,45,0,Mobile,18-24,United Kingdom,Social media
+43,A,15,9,25,1,Tablet,35-44,Canada,Referral
+44,B,12,16,60,0,Desktop,45-54,Australia,Direct
+45,A,6,5,15,1,Mobile,18-24,Germany,Organic search
+46,A,11,8,20,0,Desktop,35-44,France,Organic search
+47,B,18,22,75,0,Mobile,25-34,Spain,Social media
+48,A,9,10,28,0,Tablet,18-24,Italy,Referral
+49,A,7,6,22,1,Mobile,45-54,United States,Direct
+50,B,13,11,40,0,Desktop,35-44,United Kingdom,Organic search
+51,A,10,13,31,0,Mobile,25-34,Canada,Organic search
+52,B,8,15,48,1,Desktop,18-24,United States,Social media
+53,B,15,11,26,0,Mobile,35-44,Germany,Social media
+54,A,12,7,18,1,Tablet,45-54,Australia,Referral
+55,B,6,9,22,0,Desktop,25-34,United Kingdom,Direct
+56,A,11,8,19,0,Mobile,18-24,Spain,Organic search
+57,A,18,23,80,0,Desktop,35-44,Italy,Organic search
+58,B,9,10,28,1,Tablet,45-54,Canada,Direct
+59,A,7,6,21,0,Mobile,25-34,United States,Organic search
+60,B,13,12,38,0,Desktop,35-44,United Kingdom,Social media
+61,A,10,13,30,0,Mobile,18-24,Germany,Organic search
+62,B,8,14,47,0,Desktop,35-44,France,Social media
+63,B,16,12,28,1,Tablet,25-34,Spain,Referral
+64,A,11,7,20,0,Mobile,35-44,Italy,Organic search
+65,A,18,22,78,0,Desktop,45-54,United States,Direct
+66,B,9,10,25,1,Mobile,25-34,Canada,Direct
+67,A,6,8,21,0,Desktop,35-44,United Kingdom,Organic search
+68,A,12,9,35,0,Mobile,18-24,Australia,Social media
+69,B,7,6,18,1,Tablet,45-54,Germany,Referral
+70,B,13,11,22,0,Desktop,25-34,France,Organic search
+71,A,10,13,29,0,Mobile,35-44,United States,Social media
+72,B,8,14,46,0,Desktop,18-24,United Kingdom,Referral
+73,A,15,11,25,1,Tablet,25-34,Canada,Direct
+74,B,12,7,18,0,Mobile,35-44,Germany,Organic search
+75,A,6,9,20,0,Desktop,45-54,United States,Social media
+76,A,11,8,22,1,Mobile,25-34,Australia,Organic search
+77,B,18,23,80,0,Desktop,35-44,United Kingdom,Social media
+78,B,9,10,28,0,Tablet,18-24,Spain,Social media
+79,A,7,6,21,0,Mobile,45-54,Italy,Referral
+80,B,13,12,40,1,Desktop,25-34,Canada,Organic search
+81,A,10,12,30,0,Desktop,25-34,United States,Organic search
+82,B,8,14,45,0,Mobile,18-24,United Kingdom,Social media
+83,A,15,9,25,1,Tablet,35-44,Canada,Referral
+84,B,12,16,60,0,Desktop,45-54,Australia,Direct
+85,A,6,5,15,1,Mobile,18-24,Germany,Organic search
+86,A,11,8,20,0,Desktop,35-44,France,Organic search
+87,B,18,22,75,0,Mobile,25-34,Spain,Social media
+88,A,9,10,28,0,Tablet,18-24,Italy,Referral
+89,A,7,6,22,1,Mobile,45-54,United States,Direct
+90,B,13,11,40,0,Desktop,35-44,United Kingdom,Organic search
+91,A,10,13,31,0,Mobile,25-34,Canada,Organic search
+92,B,8,15,48,1,Desktop,18-24,United States,Social media
+93,B,15,11,26,0,Mobile,35-44,Germany,Social media
+94,A,12,7,18,1,Tablet,45-54,Australia,Referral
+95,B,6,9,22,0,Desktop,25-34,United Kingdom,Direct
+96,A,11,8,19,0,Mobile,18-24,Spain,Organic search
+97,A,18,23,80,0,Desktop,35-44,Italy,Organic search
+98,B,9,10,28,1,Tablet,45-54,Canada,Direct
+99,A,7,6,21,0,Mobile,25-34,United States,Organic search
+100,B,13,12,38,0,Desktop,35-44,United Kingdom,Social media
