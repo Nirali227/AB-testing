@@ -10,6 +10,7 @@ A/B testing is used to compare two or more versions of a webpage, app, or market
 
 #### Tools used: Pandas, Matplotlib, Seaborn, Scipy
 
+![image](https://github.com/Nirali227/AB-testing/assets/76995087/49a55460-37c4-41c5-9299-d2a71b7f7078)
 
 
 
